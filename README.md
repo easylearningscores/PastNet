@@ -11,7 +11,7 @@ Hao Wu*, Wei Xiong* are equal contributors, Xiao Luo is a corresponding author
 @article{wu2023pastnet,
   title={PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction},
   author={Wu, Hao and Xiong, Wei and Wang, Kun and Liang, Yuxuan and Xu, Fan and Chen, Chong and Hua, Xian-Sheng and Luo, Xiao and Wang, Haixin},
-  journal={Arxiv},
+  journal={arXiv preprint arXiv:2305.11421.},
   year={2023},
   publisher={IEEE}
 }
