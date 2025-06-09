@@ -12,6 +12,13 @@ In this paper, we investigate the challenge of spatio-temporal video prediction,
 
 
 
+## Overview
+
+* `API/` contains dataloaders and metrics.
+* `modules/` contains several used module blocks.
+* `models/` contains the PastNet model.
+* `train_model.py` is the core file for training, validating, and testing pipelines.
+
 
 
 ## Citation
