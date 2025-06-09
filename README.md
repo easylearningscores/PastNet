@@ -10,3 +10,21 @@ In this paper, we investigate the challenge of spatio-temporal video prediction,
   <img src='figure/mm.png' width="100%">
 </p>
 
+
+
+
+
+## Citation
+
+If you are interested in our repository and our paper, please cite the following paper:
+
+```
+@inproceedings{wu2024pastnet,
+  title={Pastnet: Introducing physical inductive biases for spatio-temporal video prediction},
+  author={Wu, Hao and Xu, Fan and Chen, Chong and Hua, Xian-Sheng and Luo, Xiao and Wang, Haixin},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={2917--2926},
+  year={2024}
+}
+```
+
